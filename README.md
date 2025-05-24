@@ -53,6 +53,6 @@ Transforming raw text into structured data using natural language processing (NL
 **Phanidhar Venkata Naga Kasuba**  
 MS in Data Analytics, Webster University  
 📫 Email: pkasubavenkatana@webster.edu  
-🔗 [LinkedIn](https://www.linkedin.com/in/YOUR_USERNAME)
+🔗 [LinkedIn](www.linkedin.com/in/phanidhar-kasuba-venkata-naga)
 
 ---
