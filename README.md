@@ -33,12 +33,6 @@ Transforming raw text into structured data using natural language processing (NL
 
 ---
 
-## 📄 Report
-
-📁 Available in the `report/` folder  
-📄 **TFIDF_Classification_Report.docx**
-
----
 
 ## 🚀 Next Steps (Future Work)
 
